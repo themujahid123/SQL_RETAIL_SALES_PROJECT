@@ -12,7 +12,7 @@ questions using SQL queries The purpose of this project is to help beginners und
 **Database Setup:** Create and populate a retail sales database using structure sales data   
 **Data Cleaning:** Identify and handle missing or incorrect data entries   
 **Exploratory Analysis:** Perform basic SQl-based exploration to understand trends and structure    
-**Business Insights:** use SQL to answer key questions that help understand sales performances and customer behavior  
+**Business Insights:** use SQL to answer key questions that help understand sales performances and customer behavior 
 
 # Project Structure   
 **1.Database Creation:**
@@ -167,8 +167,7 @@ GROUP BY SHIFT
 **Customer Insights:** Report on top customer and unique customer counts per categories.  
 
 ## Conclusion 
-The project serves as a comprehensive introduction to sql for data analyts,covering database setup,data cleaning,exploratory data analysis and business driven sql queries.The finding from this project
-can help to drive business decision by understanding sales pattern,customer behaviour,and product performance.  
+This project involved designing and managing a retail sales database to perform comprehensive data cleaning and exploratory analysis using SQL. ensured data integrity by modifying data types and managing null values, and extracted actionable business insights such as sales trends, customer demographics, and product performance. This project enhanced my practical skills in SQL, data preparation, and analytics, preparing me for real-world data analyst roles. 
 
 ## Author - MUJAHID PASHA
 
