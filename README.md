@@ -3,7 +3,7 @@
 # Project Overview 
 **Project Title:** Retail Sales Data insights  
 **Level:** Beginner  
-**Database:** `Retail Sales Data 
+**Database:** `Retail Sales Data` 
 
 This project is developed to demonstrate essential SQL skills typically required for data analysts.it involves setting up a retail sales database,clinning and exploring the data, and answering busines related 
 questions using SQL queries The purpose of this project is to help beginners understand real-world applications of SQL in a structure and practical way
